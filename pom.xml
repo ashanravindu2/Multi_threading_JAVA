@@ -15,6 +15,13 @@
         <module>Introduction</module>
         <module>Extend-thread-class</module>
         <module>Extend_thread_class</module>
+        <module>Implement-Runnable-Interface</module>
+        <module>Lambda-Expression</module>
+        <module>Join_IsAlive</module>
+        <module>Synchronized-Keyword</module>
+        <module>Thread_Priority</module>
+        <module>Thread_Priority/src/main/Inter-Thread-Commiunication</module>
+        <module>Thread-Pool</module>
     </modules>
 
     <properties>
